@@ -1,0 +1,1132 @@
+2025-06-23 14:35:41,165 - trading_bot - INFO - Trading bot initialized successfully
+2025-06-23 14:35:42,127 - telegram_bot - INFO - Telegram message sent: 🤖 Trading bot initialized and ready to trade!
+2025-06-23 14:35:42,132 - trading_bot - INFO - Starting trading bot...
+2025-06-23 14:35:43,059 - telegram_bot - INFO - Telegram message sent: 🚀 Trading bot started!
+2025-06-23 14:35:43,062 - strategy - INFO - Fetching ETHUSD data for 1m timeframe
+2025-06-23 14:35:43,062 - strategy - ERROR - Error fetching market data: name 'requests' is not defined
+2025-06-23 14:35:43,065 - trading_bot - ERROR - Failed to fetch market data
+2025-06-23 14:36:28,304 - trading_bot - INFO - Trading bot initialized successfully
+2025-06-23 14:36:29,199 - telegram_bot - INFO - Telegram message sent: 🤖 Trading bot initialized and ready to trade!
+2025-06-23 14:36:29,202 - trading_bot - INFO - Starting trading bot...
+2025-06-23 14:36:30,130 - telegram_bot - INFO - Telegram message sent: 🚀 Trading bot started!
+2025-06-23 14:36:30,133 - strategy - INFO - Fetching ETHUSD data for 1m timeframe
+2025-06-23 14:36:30,642 - strategy - INFO - Successfully fetched 3999 candles
+2025-06-23 14:36:31,058 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 14:36:31,768 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:32,748 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:33,215 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:34,143 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:34,320 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:35,735 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:36,193 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:37,123 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:37,583 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:38,584 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:39,074 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:40,003 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:40,179 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:41,175 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:41,662 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:42,614 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:42,793 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:43,721 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:43,895 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:44,809 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:44,991 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:45,933 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:46,114 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:47,034 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:47,510 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:48,451 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:48,925 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:49,854 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:50,031 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:50,974 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:51,439 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:52,384 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:52,852 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:53,787 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:53,959 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:54,919 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:55,434 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:56,374 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:56,555 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:57,649 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:57,831 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:58,753 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:58,938 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:36:59,863 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:37:00,081 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:37:01,009 - telegram_bot - INFO - Telegram message sent: ⚠️ <b>Error Alert</b>
+
+Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:37:01,494 - trading_bot - ERROR - Error executing order: 401 HTTP Error: Unauthorized {"error":{"code":"ip_not_whitelisted_for_api_key","context":{"client_ip":"103.91.121.169"}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 14:41:16,781 - trading_bot - INFO - Trading bot initialized successfully
+2025-06-23 14:41:17,782 - telegram_bot - INFO - Telegram message sent: 🤖 Trading bot initialized and ready to trade!
+2025-06-23 14:41:17,784 - trading_bot - INFO - Starting trading bot...
+2025-06-23 14:41:18,696 - telegram_bot - INFO - Telegram message sent: 🚀 Trading bot started!
+2025-06-23 14:41:18,698 - strategy - INFO - Fetching ETHUSD data for 1m timeframe
+2025-06-23 14:41:19,592 - strategy - INFO - Successfully fetched 3999 candles
+2025-06-23 14:41:19,919 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 14:41:21,922 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2253.85', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655265865, 'time_in_force': 'ioc', 'paid_commission': '0.01196795', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:11:21.732018Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:11:21.471932Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:41:22,803 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2497.85
+Size: 1.0
+2025-06-23 14:41:22,806 - strategy - INFO - Entered short position at 2497.85
+2025-06-23 14:41:24,592 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2253.9', 'cashflow': '-0.0005', 'entry_price': '2253.85', 'exit_price_with_size': [{'price': '2253.9', 'size': '-1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '-0.0005', 'roe': '-0.08873704993677485192004791801', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2253.9', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655265876, 'time_in_force': 'ioc', 'paid_commission': '0.01196821', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4509', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:11:24.223972Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:11:23.297780Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:41:25,501 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2505.9
+Size: 1.0
+2025-06-23 14:41:25,504 - strategy - INFO - Entered long position at 2505.9
+2025-06-23 14:41:28,994 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.1', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655265934, 'time_in_force': 'ioc', 'paid_commission': '0.01196928', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:11:28.783718Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:11:28.371785Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:41:29,896 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2491.8
+Size: 1.0
+2025-06-23 14:41:29,900 - strategy - INFO - Entered short position at 2491.8
+2025-06-23 14:41:31,893 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.1', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655265947, 'time_in_force': 'ioc', 'paid_commission': '0.01196928', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:11:31.455992Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:11:30.692839Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:41:32,798 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2486.55
+Size: 1.0
+2025-06-23 14:41:32,800 - strategy - INFO - Entered short position at 2486.55
+2025-06-23 14:41:33,533 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.35', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655265985, 'time_in_force': 'ioc', 'paid_commission': '0.0119706', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:11:33.241053Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:11:33.013656Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:41:34,447 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2479.75
+Size: 1.0
+2025-06-23 14:41:34,451 - strategy - INFO - Entered short position at 2479.75
+2025-06-23 14:41:35,819 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.4', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655265997, 'time_in_force': 'ioc', 'paid_commission': '0.01197087', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:11:35.493441Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:11:34.851724Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:41:36,782 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2486.05
+Size: 1.0
+2025-06-23 14:41:36,784 - strategy - INFO - Entered short position at 2486.05
+2025-06-23 14:41:39,490 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.4', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266032, 'time_in_force': 'ioc', 'paid_commission': '0.01197087', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:11:38.952099Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:11:37.711868Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:41:40,418 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2481.85
+Size: 1.0
+2025-06-23 14:41:40,421 - strategy - INFO - Entered short position at 2481.85
+2025-06-23 14:41:41,713 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.4', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266064, 'time_in_force': 'ioc', 'paid_commission': '0.01197087', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:11:41.501369Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:11:41.057117Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:41:42,655 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2479.95
+Size: 1.0
+2025-06-23 14:41:42,658 - strategy - INFO - Entered short position at 2479.95
+2025-06-23 14:41:43,681 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.4', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266090, 'time_in_force': 'ioc', 'paid_commission': '0.01197087', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:11:43.432303Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:11:43.189141Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:41:44,613 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2464.55
+Size: 1.0
+2025-06-23 14:41:44,616 - strategy - INFO - Entered short position at 2464.55
+2025-06-23 14:41:46,116 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2254.45', 'cashflow': '-0.00142858', 'entry_price': '2254.307142857142857142857143', 'exit_price_with_size': [{'price': '2254.45', 'size': '-1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '-0.00142858', 'roe': '-0.2534845359518128788382873419', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.45', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266115, 'time_in_force': 'ioc', 'paid_commission': '0.01197113', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4510.1', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:11:45.798209Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:11:44.848311Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:41:47,588 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2431.35
+Size: 1.0
+2025-06-23 14:41:47,593 - strategy - INFO - Entered long position at 2431.35
+2025-06-23 14:41:48,787 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.7', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266161, 'time_in_force': 'ioc', 'paid_commission': '0.01197246', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:11:48.524575Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:11:47.902456Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:41:49,707 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2411.45
+Size: 1.0
+2025-06-23 14:41:49,711 - strategy - INFO - Entered short position at 2411.45
+2025-06-23 14:41:51,157 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2254.75', 'cashflow': '-0.00386735', 'entry_price': '2254.363265306122448979591837', 'exit_price_with_size': [{'price': '2254.75', 'size': '-1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '-0.00386735', 'roe': '-0.6861981934353154608115961973', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.75', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266190, 'time_in_force': 'ioc', 'paid_commission': '0.01197273', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4510.2', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:11:50.905192Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:11:50.284847Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:41:52,059 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2419.75
+Size: 1.0
+2025-06-23 14:41:52,064 - strategy - INFO - Entered long position at 2419.75
+2025-06-23 14:41:53,218 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2254.75', 'cashflow': '-0.00386735', 'entry_price': '2254.363265306122448979591837', 'exit_price_with_size': [{'price': '2254.75', 'size': '-1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '-0.00386735', 'roe': '-0.6861981934353154608115961973', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.75', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266219, 'time_in_force': 'ioc', 'paid_commission': '0.01197273', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4510.8', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:11:52.998379Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:11:52.671118Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:41:54,118 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2420.65
+Size: 1.0
+2025-06-23 14:41:54,121 - strategy - INFO - Entered long position at 2420.65
+2025-06-23 14:41:54,880 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2254.75', 'cashflow': '-0.00386735', 'entry_price': '2254.363265306122448979591837', 'exit_price_with_size': [{'price': '2254.75', 'size': '-1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '-0.00386735', 'roe': '-0.6861981934353154608115961973', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.75', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266246, 'time_in_force': 'ioc', 'paid_commission': '0.01197273', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4510.8', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:11:54.701015Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:11:54.408412Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:41:55,791 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2425.5
+Size: 1.0
+2025-06-23 14:41:55,795 - strategy - INFO - Entered long position at 2425.5
+2025-06-23 14:41:58,517 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2254.8', 'cashflow': '-0.00436735', 'entry_price': '2254.363265306122448979591837', 'exit_price_with_size': [{'price': '2254.8', 'size': '-1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '-0.00436735', 'roe': '-0.7749150400402665850713084289', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.8', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266281, 'time_in_force': 'ioc', 'paid_commission': '0.01197299', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4510.8', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:11:58.039790Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:11:56.441215Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:41:59,445 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2431.8
+Size: 1.0
+2025-06-23 14:41:59,450 - strategy - INFO - Entered long position at 2431.8
+2025-06-23 14:42:01,006 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2255', 'cashflow': '-0.00636735', 'entry_price': '2254.363265306122448979591837', 'exit_price_with_size': [{'price': '2255', 'size': '-1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '-0.00636735', 'roe': '-1.129773004849624334180639747', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266312, 'time_in_force': 'ioc', 'paid_commission': '0.01197405', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4511.2', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:00.766820Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:00.106061Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:01,946 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2435.05
+Size: 1.0
+2025-06-23 14:42:01,947 - strategy - INFO - Entered long position at 2435.05
+2025-06-23 14:42:03,626 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255.9', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266345, 'time_in_force': 'ioc', 'paid_commission': '0.01197883', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:03.356565Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:02.772216Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:04,525 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2420.0
+Size: 1.0
+2025-06-23 14:42:04,530 - strategy - INFO - Entered short position at 2420.0
+2025-06-23 14:42:06,319 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2256.15', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266383, 'time_in_force': 'ioc', 'paid_commission': '0.01198016', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:05.964615Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:05.212522Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:07,865 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2417.5
+Size: 1.0
+2025-06-23 14:42:07,867 - strategy - INFO - Entered short position at 2417.5
+2025-06-23 14:42:09,717 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2256.2', 'cashflow': '-0.01005868', 'entry_price': '2255.194132653061224489795919', 'exit_price_with_size': [{'price': '2256.2', 'size': '-1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '-0.01005868', 'roe': '-1.784083760842072002640033219', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2256.2', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266427, 'time_in_force': 'ioc', 'paid_commission': '0.01198043', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4513.85', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:09.456048Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:08.404085Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:10,618 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2424.25
+Size: 1.0
+2025-06-23 14:42:10,621 - strategy - INFO - Entered long position at 2424.25
+2025-06-23 14:42:11,592 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255.9', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266467, 'time_in_force': 'ioc', 'paid_commission': '0.01197883', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:11.377485Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:11.169617Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:12,509 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2415.85
+Size: 1.0
+2025-06-23 14:42:12,514 - strategy - INFO - Entered short position at 2415.85
+2025-06-23 14:42:13,683 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255.9', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266496, 'time_in_force': 'ioc', 'paid_commission': '0.01197883', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:13.480960Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:13.034962Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:14,612 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2404.4
+Size: 1.0
+2025-06-23 14:42:14,616 - strategy - INFO - Entered short position at 2404.4
+2025-06-23 14:42:16,667 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255.2', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266526, 'time_in_force': 'ioc', 'paid_commission': '0.01197512', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:16.267950Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:15.345490Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:17,568 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2404.5
+Size: 1.0
+2025-06-23 14:42:17,572 - strategy - INFO - Entered short position at 2404.5
+2025-06-23 14:42:18,861 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255.1', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266560, 'time_in_force': 'ioc', 'paid_commission': '0.01197459', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:18.455560Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:18.111974Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:19,758 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2398.4
+Size: 1.0
+2025-06-23 14:42:19,761 - strategy - INFO - Entered short position at 2398.4
+2025-06-23 14:42:22,084 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266581, 'time_in_force': 'ioc', 'paid_commission': '0.01197405', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:21.755065Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:20.761563Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:23,041 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2385.95
+Size: 1.0
+2025-06-23 14:42:23,044 - strategy - INFO - Entered short position at 2385.95
+2025-06-23 14:42:24,999 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2254.65', 'cashflow': '0.00685299', 'entry_price': '2255.33529974489795918367347', 'exit_price_with_size': [{'price': '2254.65', 'size': '-1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.00685299', 'roe': '1.215425358675345594450978481', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.65', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266605, 'time_in_force': 'ioc', 'paid_commission': '0.0119722', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4511.75', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:24.729204Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:23.896129Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:25,917 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2400.4
+Size: 1.0
+2025-06-23 14:42:25,920 - strategy - INFO - Entered long position at 2400.4
+2025-06-23 14:42:28,287 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2254.45', 'cashflow': '0.00885299', 'entry_price': '2255.33529974489795918367347', 'exit_price_with_size': [{'price': '2254.45', 'size': '-1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.00885299', 'roe': '1.570139245219859914317483020', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.45', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266625, 'time_in_force': 'ioc', 'paid_commission': '0.01197113', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4511.75', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:27.929169Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:26.595793Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:29,210 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2402.2
+Size: 1.0
+2025-06-23 14:42:29,213 - strategy - INFO - Entered long position at 2402.2
+2025-06-23 14:42:30,044 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2254.6', 'cashflow': '0.00735299', 'entry_price': '2255.33529974489795918367347', 'exit_price_with_size': [{'price': '2254.6', 'size': '-1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.00735299', 'roe': '1.304103830311474174417604616', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.6', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266648, 'time_in_force': 'ioc', 'paid_commission': '0.01197193', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4510.8', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:29.661159Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:29.456075Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:31,463 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2408.65
+Size: 1.0
+2025-06-23 14:42:31,468 - strategy - INFO - Entered long position at 2408.65
+2025-06-23 14:42:32,962 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2255', 'cashflow': '0.00335299', 'entry_price': '2255.33529974489795918367347', 'exit_price_with_size': [{'price': '2255', 'size': '-1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.00335299', 'roe': '0.5946760572224455346845955322', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266679, 'time_in_force': 'ioc', 'paid_commission': '0.01197405', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4510.8', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:32.820275Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:32.204187Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:33,908 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2412.9
+Size: 1.0
+2025-06-23 14:42:33,912 - strategy - INFO - Entered long position at 2412.9
+2025-06-23 14:42:35,726 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2255.05', 'cashflow': '0.00285299', 'entry_price': '2255.33529974489795918367347', 'exit_price_with_size': [{'price': '2255.05', 'size': '-1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.00285299', 'roe': '0.5059975855863169547179693967', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255.05', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266712, 'time_in_force': 'ioc', 'paid_commission': '0.01197432', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4510.75', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:35.283409Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:34.212474Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:36,673 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2412.7
+Size: 1.0
+2025-06-23 14:42:36,677 - strategy - INFO - Entered long position at 2412.7
+2025-06-23 14:42:37,719 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2254.55', 'cashflow': '0.00785299', 'entry_price': '2255.33529974489795918367347', 'exit_price_with_size': [{'price': '2254.55', 'size': '-1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.00785299', 'roe': '1.392782301947602754384230749', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.55', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266750, 'time_in_force': 'ioc', 'paid_commission': '0.01197167', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4510.75', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:37.484980Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:37.224439Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:38,660 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2415.25
+Size: 1.0
+2025-06-23 14:42:38,663 - strategy - INFO - Entered long position at 2415.25
+2025-06-23 14:42:40,691 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2254.55', 'cashflow': '0.00785299', 'entry_price': '2255.33529974489795918367347', 'exit_price_with_size': [{'price': '2254.55', 'size': '-1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.00785299', 'roe': '1.392782301947602754384230750', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.55', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266774, 'time_in_force': 'ioc', 'paid_commission': '0.01197167', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4511.65', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:40.444756Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:39.613064Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:41,601 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2417.95
+Size: 1.0
+2025-06-23 14:42:41,605 - strategy - INFO - Entered long position at 2417.95
+2025-06-23 14:42:43,762 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2254.45', 'cashflow': '0.00885299', 'entry_price': '2255.33529974489795918367347', 'exit_price_with_size': [{'price': '2254.45', 'size': '-1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.00885299', 'roe': '1.570139245219859914317483021', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.45', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266795, 'time_in_force': 'ioc', 'paid_commission': '0.01197113', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4511.65', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:43.460145Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:42.236382Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:44,688 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2427.35
+Size: 1.0
+2025-06-23 14:42:44,693 - strategy - INFO - Entered long position at 2427.35
+2025-06-23 14:42:45,829 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.45', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266821, 'time_in_force': 'ioc', 'paid_commission': '0.01197113', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4510.7', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:45.659416Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:45.407075Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:46,740 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2430.05
+Size: 1.0
+2025-06-23 14:42:46,743 - strategy - INFO - Entered long position at 2430.05
+2025-06-23 14:42:48,114 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.65', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266839, 'time_in_force': 'ioc', 'paid_commission': '0.0119722', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4510.7', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:47.918428Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:47.373074Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:49,006 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2423.1
+Size: 1.0
+2025-06-23 14:42:49,010 - strategy - INFO - Entered long position at 2423.1
+2025-06-23 14:42:49,677 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.65', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266875, 'time_in_force': 'ioc', 'paid_commission': '0.0119722', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4510.6', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:49.545695Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:49.228491Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:50,582 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2426.55
+Size: 1.0
+2025-06-23 14:42:50,586 - strategy - INFO - Entered long position at 2426.55
+2025-06-23 14:42:51,628 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.65', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266902, 'time_in_force': 'ioc', 'paid_commission': '0.0119722', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4510.6', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:51.370150Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:50.968909Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:52,579 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2428.75
+Size: 1.0
+2025-06-23 14:42:52,582 - strategy - INFO - Entered long position at 2428.75
+2025-06-23 14:42:53,282 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2254.65', 'cashflow': '0.0005', 'entry_price': '2254.600000000000000000000000', 'exit_price_with_size': [{'price': '2254.65', 'size': '1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.0005', 'roe': '0.08870753126940477246518229398', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.65', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266929, 'time_in_force': 'ioc', 'paid_commission': '0.0119722', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:53.112618Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:52.828387Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:54,202 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2424.95
+Size: 1.0
+2025-06-23 14:42:54,206 - strategy - INFO - Entered short position at 2424.95
+2025-06-23 14:42:55,558 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2254.7', 'cashflow': '0.001', 'entry_price': '2254.600000000000000000000000', 'exit_price_with_size': [{'price': '2254.7', 'size': '1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.001', 'roe': '0.1774150625388095449303645880', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.7', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266949, 'time_in_force': 'ioc', 'paid_commission': '0.01197246', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:55.238169Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:54.688548Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:57,199 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2421.65
+Size: 1.0
+2025-06-23 14:42:57,203 - strategy - INFO - Entered short position at 2421.65
+2025-06-23 14:42:58,638 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.85', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655266990, 'time_in_force': 'ioc', 'paid_commission': '0.01197326', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4510.65', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:12:58.209023Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:12:57.767217Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:42:59,578 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2421.95
+Size: 1.0
+2025-06-23 14:42:59,581 - strategy - INFO - Entered long position at 2421.95
+2025-06-23 14:43:01,759 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2254.8', 'cashflow': '0.00116666', 'entry_price': '2254.683333333333333333333333', 'exit_price_with_size': [{'price': '2254.8', 'size': '1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.00116666', 'roe': '0.2069771325626328209417584311', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.8', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267041, 'time_in_force': 'ioc', 'paid_commission': '0.01197299', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:01.482011Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:00.481821Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:02,791 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2422.1
+Size: 1.0
+2025-06-23 14:43:02,793 - strategy - INFO - Entered short position at 2422.1
+2025-06-23 14:43:04,301 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2254.95', 'cashflow': '0.00266666', 'entry_price': '2254.683333333333333333333333', 'exit_price_with_size': [{'price': '2254.95', 'size': '1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.00266666', 'roe': '0.4730921093715996419629965349', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.95', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267068, 'time_in_force': 'ioc', 'paid_commission': '0.01197379', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:04.034029Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:03.218480Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:05,242 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2422.85
+Size: 1.0
+2025-06-23 14:43:05,245 - strategy - INFO - Entered short position at 2422.85
+2025-06-23 14:43:07,207 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2255', 'cashflow': '0.00316666', 'entry_price': '2254.683333333333333333333333', 'exit_price_with_size': [{'price': '2255', 'size': '1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.00316666', 'roe': '0.5617971016412552489700759029', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267088, 'time_in_force': 'ioc', 'paid_commission': '0.01197405', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:07.020401Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:05.844521Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:08,161 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2421.85
+Size: 1.0
+2025-06-23 14:43:08,163 - strategy - INFO - Entered short position at 2421.85
+2025-06-23 14:43:09,280 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255.2', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267124, 'time_in_force': 'ioc', 'paid_commission': '0.01197512', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4510.8', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:09.105102Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:08.899458Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:10,216 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2423.7
+Size: 1.0
+2025-06-23 14:43:10,221 - strategy - INFO - Entered long position at 2423.7
+2025-06-23 14:43:11,382 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255.2', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267156, 'time_in_force': 'ioc', 'paid_commission': '0.01197512', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4511.5', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:11.176787Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:10.877738Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:12,281 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2426.55
+Size: 1.0
+2025-06-23 14:43:12,285 - strategy - INFO - Entered long position at 2426.55
+2025-06-23 14:43:13,572 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2254.7', 'cashflow': '-0.005', 'entry_price': '2255.2', 'exit_price_with_size': [{'price': '2254.7', 'size': '1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '-0.005', 'roe': '-0.8868393047179851010996807379', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.7', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267191, 'time_in_force': 'ioc', 'paid_commission': '0.01197246', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:13.374306Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:12.563992Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:14,514 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2421.95
+Size: 1.0
+2025-06-23 14:43:14,520 - strategy - INFO - Entered short position at 2421.95
+2025-06-23 14:43:15,605 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2254.9', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267212, 'time_in_force': 'ioc', 'paid_commission': '0.01197352', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4511.5', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:15.280153Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:15.096519Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:16,560 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2425.2
+Size: 1.0
+2025-06-23 14:43:16,562 - strategy - INFO - Entered long position at 2425.2
+2025-06-23 14:43:18,068 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255.2', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267238, 'time_in_force': 'ioc', 'paid_commission': '0.01197512', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4511.65', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:17.758202Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:17.255065Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:19,188 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2425.4
+Size: 1.0
+2025-06-23 14:43:19,190 - strategy - INFO - Entered long position at 2425.4
+2025-06-23 14:43:20,380 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255.2', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267260, 'time_in_force': 'ioc', 'paid_commission': '0.01197512', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4511.65', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:20.073206Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:19.561188Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:21,292 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2425.2
+Size: 1.0
+2025-06-23 14:43:21,295 - strategy - INFO - Entered long position at 2425.2
+2025-06-23 14:43:23,201 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255.3', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267284, 'time_in_force': 'ioc', 'paid_commission': '0.01197565', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4511.3', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:22.771667Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:21.779671Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:24,121 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2426.75
+Size: 1.0
+2025-06-23 14:43:24,124 - strategy - INFO - Entered long position at 2426.75
+2025-06-23 14:43:25,604 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2255.65', 'cashflow': '0.0049', 'entry_price': '2255.160', 'exit_price_with_size': [{'price': '2255.65', 'size': '1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.0049', 'roe': '0.8691179339825112187161886518', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255.65', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267316, 'time_in_force': 'ioc', 'paid_commission': '0.01197751', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:25.284154Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:24.721645Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:26,520 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2424.25
+Size: 1.0
+2025-06-23 14:43:26,523 - strategy - INFO - Entered short position at 2424.25
+2025-06-23 14:43:28,153 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255.7', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267333, 'time_in_force': 'ioc', 'paid_commission': '0.01197777', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4511.95', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:27.789190Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:27.013347Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:29,063 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2428.45
+Size: 1.0
+2025-06-23 14:43:29,067 - strategy - INFO - Entered long position at 2428.45
+2025-06-23 14:43:30,077 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255.7', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267342, 'time_in_force': 'ioc', 'paid_commission': '0.01197777', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4511.95', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:29.782621Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:29.384082Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:30,969 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2429.2
+Size: 1.0
+2025-06-23 14:43:30,972 - strategy - INFO - Entered long position at 2429.2
+2025-06-23 14:43:32,463 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255.7', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267369, 'time_in_force': 'ioc', 'paid_commission': '0.01197777', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4512.7', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:32.208422Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:31.703540Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:33,384 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2430.3
+Size: 1.0
+2025-06-23 14:43:33,388 - strategy - INFO - Entered long position at 2430.3
+2025-06-23 14:43:34,828 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2255.95', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267392, 'time_in_force': 'ioc', 'paid_commission': '0.0119791', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4512.7', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:34.528453Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:33.956287Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:35,736 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2436.05
+Size: 1.0
+2025-06-23 14:43:35,740 - strategy - INFO - Entered long position at 2436.05
+2025-06-23 14:43:36,919 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2256.2', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267412, 'time_in_force': 'ioc', 'paid_commission': '0.01198043', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4512.6', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:36.695934Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:36.263695Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:37,819 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2438.85
+Size: 1.0
+2025-06-23 14:43:37,822 - strategy - INFO - Entered long position at 2438.85
+2025-06-23 14:43:39,601 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2256.2', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267438, 'time_in_force': 'ioc', 'paid_commission': '0.01198043', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4512.6', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:39.256308Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:38.428235Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:40,551 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2447.3
+Size: 1.0
+2025-06-23 14:43:40,555 - strategy - INFO - Entered long position at 2447.3
+2025-06-23 14:43:41,636 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2256.35', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267484, 'time_in_force': 'ioc', 'paid_commission': '0.01198122', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4513.6', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:41.284037Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:41.128041Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:42,549 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2440.05
+Size: 1.0
+2025-06-23 14:43:42,553 - strategy - INFO - Entered long position at 2440.05
+2025-06-23 14:43:44,143 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2256.75', 'cashflow': '0.01073636', 'entry_price': '2255.676363636363636363636364', 'exit_price_with_size': [{'price': '2256.75', 'size': '1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.01073636', 'roe': '1.903883052210907109498300046', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2256.75', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267517, 'time_in_force': 'ioc', 'paid_commission': '0.01198335', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:43.901393Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:42.987024Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:45,180 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2438.9
+Size: 1.0
+2025-06-23 14:43:45,185 - strategy - INFO - Entered short position at 2438.9
+2025-06-23 14:43:47,675 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2256.85', 'cashflow': '0.01173636', 'entry_price': '2255.676363636363636363636364', 'exit_price_with_size': [{'price': '2256.85', 'size': '1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.01173636', 'roe': '2.081213455831026694674123141', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2256.85', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267539, 'time_in_force': 'ioc', 'paid_commission': '0.01198388', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:47.292653Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:46.017815Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:48,591 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2440.5
+Size: 1.0
+2025-06-23 14:43:48,596 - strategy - INFO - Entered short position at 2440.5
+2025-06-23 14:43:49,763 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2256.85', 'cashflow': '0.01173636', 'entry_price': '2255.676363636363636363636364', 'exit_price_with_size': [{'price': '2256.85', 'size': '1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.01173636', 'roe': '2.081213455831026694674123141', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2256.85', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267570, 'time_in_force': 'ioc', 'paid_commission': '0.01198388', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:49.556923Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:49.123377Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:50,676 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2435.65
+Size: 1.0
+2025-06-23 14:43:50,678 - strategy - INFO - Entered short position at 2435.65
+2025-06-23 14:43:51,624 - trading_bot - INFO - Order executed: {'meta_data': {'cashflow': '0', 'ip': '103.91.121.169', 'otc': False, 'pnl': '0', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2256.9', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267588, 'time_in_force': 'ioc', 'paid_commission': '0.01198414', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '4514.8', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'buy', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:51.334603Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:50.935823Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:52,562 - telegram_bot - INFO - Telegram message sent: 🔴 <b>LONG Alert</b>
+
+Symbol: ETHUSD
+Price: 2440.65
+Size: 1.0
+2025-06-23 14:43:52,567 - strategy - INFO - Entered long position at 2440.65
+2025-06-23 14:43:53,461 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2256.85', 'cashflow': '0.01037676', 'entry_price': '2255.812323232323232323232323', 'exit_price_with_size': [{'price': '2256.85', 'size': '1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.01037676', 'roe': '1.840004133877818297621470945', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2256.85', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267625, 'time_in_force': 'ioc', 'paid_commission': '0.01198388', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:53.284759Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:52.900206Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:54,407 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2431.7
+Size: 1.0
+2025-06-23 14:43:54,428 - strategy - INFO - Entered short position at 2431.7
+2025-06-23 14:43:55,551 - trading_bot - INFO - Order executed: {'meta_data': {'avg_exit_price': '2256.45', 'cashflow': '0.00637676', 'entry_price': '2255.812323232323232323232323', 'exit_price_with_size': [{'price': '2256.45', 'size': '1'}], 'ip': '103.91.121.169', 'otc': False, 'pnl': '0.00637676', 'roe': '1.130725270773027092034574478', 'source': 'api'}, 'commission': '0', 'stop_order_type': None, 'stop_price': None, 'bracket_order': None, 'close_on_trigger': 'false', 'state': 'closed', 'average_fill_price': '2256.45', 'stop_trigger_method': None, 'bracket_trail_amount': None, 'id': 655267660, 'time_in_force': 'ioc', 'paid_commission': '0.01198175', 'client_order_id': None, 'bracket_take_profit_price': None, 'limit_price': '0.05', 'product_id': 1699, 'cancellation_reason': None, 'quote_size': None, 'side': 'sell', 'trail_amount': None, 'updated_at': '2025-06-23T09:13:55.240579Z', 'unfilled_size': 0, 'bracket_stop_loss_price': None, 'created_at': '2025-06-23T09:13:54.757535Z', 'size': 1, 'bracket_stop_loss_limit_price': None, 'user_id': 70432884, 'reduce_only': False, 'product_symbol': 'ETHUSD', 'bracket_take_profit_limit_price': None, 'order_type': 'market_order', 'mmp': 'disabled'}
+2025-06-23 14:43:56,521 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SHORT Alert</b>
+
+Symbol: ETHUSD
+Price: 2416.9
+Size: 1.0
+2025-06-23 14:43:56,525 - strategy - INFO - Entered short position at 2416.9
+2025-06-23 14:45:55,551 - trading_bot - INFO - Trading bot initialized successfully
+2025-06-23 14:45:56,475 - telegram_bot - INFO - Telegram message sent: 🤖 Trading bot initialized and ready to trade!
+2025-06-23 14:45:56,478 - trading_bot - INFO - Starting trading bot...
+2025-06-23 14:45:57,372 - telegram_bot - INFO - Telegram message sent: 🚀 Trading bot started!
+2025-06-23 14:45:57,375 - strategy - INFO - Fetching ETHUSD data for 1m timeframe
+2025-06-23 14:45:57,891 - strategy - INFO - Successfully fetched 3999 candles
+2025-06-23 14:45:58,229 - strategy - ERROR - Error calculating indicators: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 14:45:58,229 - strategy - ERROR - Error analyzing market: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 14:49:39,680 - strategy - INFO - Fetching ETHUSD data for 15m timeframe
+2025-06-23 14:49:40,311 - strategy - INFO - Successfully fetched 4000 candles
+2025-06-23 14:50:48,504 - strategy - INFO - Fetching ETHUSD data for 15m timeframe
+2025-06-23 14:50:49,139 - strategy - INFO - Successfully fetched 4000 candles
+2025-06-23 14:50:49,643 - strategy - ERROR - Error calculating indicators: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 14:50:49,643 - strategy - ERROR - Error analyzing market: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 14:51:33,876 - strategy - INFO - Fetching ETHUSD data for 15m timeframe
+2025-06-23 14:51:34,445 - strategy - INFO - Successfully fetched 4000 candles
+2025-06-23 14:51:34,871 - strategy - ERROR - Error calculating indicators: 'float' object has no attribute 'shift'
+2025-06-23 14:51:34,871 - strategy - ERROR - Error analyzing market: 'float' object has no attribute 'shift'
+2025-06-23 14:53:54,711 - strategy - INFO - Fetching ETHUSD data for 15m timeframe
+2025-06-23 14:53:55,255 - strategy - INFO - Successfully fetched 4000 candles
+2025-06-23 14:53:55,691 - strategy - ERROR - Error calculating indicators: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 14:53:55,691 - strategy - ERROR - Error analyzing market: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 14:56:45,748 - strategy - INFO - Fetching ETHUSD data for 15m timeframe
+2025-06-23 14:56:46,919 - strategy - INFO - Successfully fetched 4000 candles
+2025-06-23 14:56:47,249 - strategy - ERROR - Error calculating indicators: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 14:56:47,249 - strategy - ERROR - Error analyzing market: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 14:57:48,228 - strategy - INFO - Fetching ETHUSD data for 15m timeframe
+2025-06-23 14:57:48,688 - strategy - INFO - Successfully fetched 4000 candles
+2025-06-23 14:57:49,012 - strategy - ERROR - Error calculating indicators: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 14:57:49,012 - strategy - ERROR - Error analyzing market: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 14:58:52,395 - strategy - INFO - Fetching ETHUSD data for 15m timeframe
+2025-06-23 14:58:52,939 - strategy - INFO - Successfully fetched 4000 candles
+2025-06-23 14:58:53,264 - strategy - ERROR - Error calculating indicators: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 14:58:53,264 - strategy - ERROR - Error analyzing market: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 15:00:43,568 - strategy - INFO - Fetching ETHUSD data for 15m timeframe
+2025-06-23 15:00:44,117 - strategy - INFO - Successfully fetched 3999 candles
+2025-06-23 15:00:44,443 - strategy - ERROR - Error calculating indicators: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 15:12:38,704 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:12:38,705 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:12:39,389 - trading_bot - ERROR - Error fetching market data: 'open_price'
+2025-06-23 15:15:51,130 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:15:51,130 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:15:51,468 - trading_bot - ERROR - Error fetching market data: 'open_price'
+2025-06-23 15:15:57,133 - trading_bot - INFO - Stopping trading bot...
+2025-06-23 15:16:49,068 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:16:49,068 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:16:49,904 - trading_bot - ERROR - Error fetching market data: 0
+2025-06-23 15:18:19,983 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:18:19,983 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:18:20,532 - trading_bot - ERROR - Error fetching market data: 0
+2025-06-23 15:18:26,232 - trading_bot - INFO - Stopping trading bot...
+2025-06-23 15:18:55,509 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:18:55,509 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:18:56,293 - trading_bot - ERROR - Error fetching market data: 0
+2025-06-23 15:19:13,303 - strategy - INFO - Fetching ETHUSD data for 15m timeframe
+2025-06-23 15:19:14,248 - strategy - INFO - Successfully fetched 4000 candles
+2025-06-23 15:19:14,576 - strategy - ERROR - Error calculating indicators: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 15:19:28,003 - trading_bot - INFO - Stopping trading bot...
+2025-06-23 15:19:50,341 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:19:50,342 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:19:51,277 - trading_bot - ERROR - Error fetching market data: 0
+2025-06-23 15:21:43,932 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:21:43,932 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:21:44,227 - trading_bot - ERROR - Error fetching market data: 400 HTTP Error: Bad Request {"error":{"code":"bad_schema","context":{"schema_errors":[{"code":"validation_error","message":"end is required","param":""},{"code":"validation_error","message":"start is required","param":""},{"code":"validation_error","message":"symbol is required","param":""}]}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/history/candles?product_id=1699&resolution=1m&limit=200
+2025-06-23 15:22:39,540 - trading_bot - INFO - Stopping trading bot...
+2025-06-23 15:23:24,781 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:23:24,781 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:23:25,229 - trading_bot - ERROR - Error fetching market data: 'timestamp'
+2025-06-23 15:23:39,937 - trading_bot - INFO - Stopping trading bot...
+2025-06-23 15:24:31,196 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:24:31,196 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:24:32,201 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 15:24:32,474 - trading_bot - ERROR - Error executing trades: 1
+2025-06-23 15:24:58,119 - trading_bot - INFO - Stopping trading bot...
+2025-06-23 15:26:15,184 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:26:15,184 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:26:15,565 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:26:15,835 - trading_bot - ERROR - Error executing trades: 1
+Traceback (most recent call last):
+  File "/Users/harshitmittal/Downloads/python-rest-client-master/trading_bot.py", line 169, in execute_trades
+    bid_liquidity = sum([float(level[1]) for level in orderbook['buy']])
+  File "/Users/harshitmittal/Downloads/python-rest-client-master/trading_bot.py", line 169, in <listcomp>
+    bid_liquidity = sum([float(level[1]) for level in orderbook['buy']])
+KeyError: 1
+
+2025-06-23 15:27:05,618 - trading_bot - INFO - Stopping trading bot...
+2025-06-23 15:27:57,182 - strategy - INFO - Fetching ETHUSD data for 15m timeframe
+2025-06-23 15:27:57,839 - strategy - INFO - Successfully fetched 4000 candles
+2025-06-23 15:27:58,159 - strategy - ERROR - Error calculating indicators: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 15:28:31,294 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:28:31,294 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:28:31,598 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 15:28:32,003 - trading_bot - INFO - Bid liquidity: 73712.0, Ask liquidity: 103308.0
+2025-06-23 15:28:32,005 - trading_bot - ERROR - Error executing trades: 'TradingBot' object has no attribute 'is_valid_trade_condition'
+Traceback (most recent call last):
+  File "/Users/harshitmittal/Downloads/python-rest-client-master/trading_bot.py", line 189, in execute_trades
+    self.is_valid_trade_condition(df, len(df)-1, 'long')):
+AttributeError: 'TradingBot' object has no attribute 'is_valid_trade_condition'
+
+2025-06-23 15:29:04,793 - trading_bot - INFO - Stopping trading bot...
+2025-06-23 15:29:34,655 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:29:34,655 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:29:35,370 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:29:35,692 - trading_bot - INFO - Bid liquidity: 61881.0, Ask liquidity: 106921.0
+2025-06-23 15:29:35,692 - strategy - ERROR - Error checking trade conditions: 'volume_percentile'
+2025-06-23 15:29:35,693 - strategy - ERROR - Error checking trade conditions: 'volume_percentile'
+2025-06-23 15:30:14,352 - trading_bot - INFO - Stopping trading bot...
+2025-06-23 15:30:46,960 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:30:46,960 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:30:47,575 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:30:47,603 - strategy - ERROR - Error calculating indicators: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 15:30:47,896 - trading_bot - INFO - Bid liquidity: 74281.0, Ask liquidity: 98707.0
+2025-06-23 15:33:37,862 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:33:37,862 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:33:38,300 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 15:33:38,328 - strategy - ERROR - Error calculating indicators: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 15:33:38,355 - strategy - ERROR - Error calculating indicators: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 15:33:38,605 - trading_bot - INFO - Bid liquidity: 74124.0, Ask liquidity: 91986.0
+2025-06-23 15:33:38,846 - trading_bot - ERROR - Error executing trades: 400 HTTP Error: Bad Request {"error":{"code":"bad_schema","context":{"schema_errors":[{"code":"validation_error","message":"Expected a integer value","param":"size"}]}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+Traceback (most recent call last):
+  File "/Users/harshitmittal/Downloads/python-rest-client-master/trading_bot.py", line 199, in execute_trades
+    if self.client.create_order(order):
+  File "/Users/harshitmittal/Downloads/python-rest-client-master/delta_rest_client/delta_rest_client.py", line 98, in create_order
+    response = self.request('POST', "/v2/orders", order, auth=True)
+  File "/Users/harshitmittal/Downloads/python-rest-client-master/delta_rest_client/delta_rest_client.py", line 75, in request
+    raise_for_status(res)
+  File "/Users/harshitmittal/Downloads/python-rest-client-master/delta_rest_client/delta_rest_client.py", line 382, in raise_for_status
+    raise requests.HTTPError(http_error_msg, response=response)
+requests.exceptions.HTTPError: 400 HTTP Error: Bad Request {"error":{"code":"bad_schema","context":{"schema_errors":[{"code":"validation_error","message":"Expected a integer value","param":"size"}]}},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+
+2025-06-23 15:33:38,871 - strategy - ERROR - Error calculating indicators: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 15:33:39,199 - trading_bot - INFO - Bid liquidity: 74124.0, Ask liquidity: 91986.0
+2025-06-23 15:33:58,692 - trading_bot - INFO - Stopping trading bot...
+2025-06-23 15:34:56,931 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:34:56,931 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:34:57,250 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:34:57,277 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:34:57,303 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:34:57,577 - trading_bot - INFO - Bid liquidity: 74824.0, Ask liquidity: 91417.0
+2025-06-23 15:34:57,595 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:34:58,158 - trading_bot - INFO - Bid liquidity: 74824.0, Ask liquidity: 91417.0
+2025-06-23 15:38:28,787 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:38:28,787 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:38:30,289 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:38:30,320 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:38:30,347 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:38:30,878 - trading_bot - INFO - Bid liquidity: 68091.0, Ask liquidity: 108138.0
+2025-06-23 15:38:30,907 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:38:31,218 - trading_bot - INFO - Bid liquidity: 68091.0, Ask liquidity: 108138.0
+2025-06-23 15:39:32,274 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:39:32,301 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:39:32,323 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:39:32,667 - trading_bot - INFO - Bid liquidity: 61074.0, Ask liquidity: 108143.0
+2025-06-23 15:40:45,852 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:40:45,852 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:40:49,850 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:40:49,880 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:40:49,906 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:40:50,230 - trading_bot - INFO - Bid liquidity: 71829.0, Ask liquidity: 100710.0
+2025-06-23 15:40:50,253 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:40:50,612 - trading_bot - INFO - Bid liquidity: 71829.0, Ask liquidity: 100710.0
+2025-06-23 15:42:31,224 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:42:34,985 - telegram_bot - ERROR - Failed to send Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/bot/sendMessage
+2025-06-23 15:42:37,934 - telegram_bot - ERROR - Failed to send Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/bot/sendMessage
+2025-06-23 15:43:19,860 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:43:21,962 - telegram_bot - ERROR - Failed to send Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/bot/sendMessage
+2025-06-23 15:43:24,819 - telegram_bot - ERROR - Failed to send Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/bot/sendMessage
+2025-06-23 15:45:12,383 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:45:15,959 - telegram_bot - INFO - Telegram message sent: 🟢 <b>BUY Alert</b>
+
+Symbol: ETHUSD
+Price: TEST
+Size: 1
+2025-06-23 15:45:19,240 - telegram_bot - INFO - Telegram message sent: 🔴 <b>SELL Alert</b>
+
+Symbol: ETHUSD
+Price: TEST
+Size: 1
+2025-06-23 15:46:11,699 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 15:46:11,699 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:46:13,835 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:46:13,864 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:46:13,888 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:46:14,291 - trading_bot - INFO - Bid liquidity: 59588.0, Ask liquidity: 109871.0
+2025-06-23 15:46:14,314 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:46:14,616 - trading_bot - INFO - Bid liquidity: 59588.0, Ask liquidity: 109871.0
+2025-06-23 15:47:16,570 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:47:16,600 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:47:16,622 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:47:16,901 - trading_bot - INFO - Bid liquidity: 60382.0, Ask liquidity: 109168.0
+2025-06-23 15:48:20,459 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:48:20,486 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:48:20,505 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:48:20,762 - trading_bot - INFO - Bid liquidity: 59796.0, Ask liquidity: 108942.0
+2025-06-23 15:49:23,333 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:49:23,361 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:49:23,382 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:49:23,712 - trading_bot - INFO - Bid liquidity: 71279.0, Ask liquidity: 95889.0
+2025-06-23 15:50:26,528 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 15:50:26,554 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:50:26,574 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:50:26,841 - trading_bot - INFO - Bid liquidity: 56607.0, Ask liquidity: 113961.0
+2025-06-23 15:51:29,232 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:51:29,256 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:51:29,275 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:51:29,542 - trading_bot - INFO - Bid liquidity: 69938.0, Ask liquidity: 102797.0
+2025-06-23 15:52:21,278 - strategy - INFO - Fetching ETHUSD data for 1m timeframe
+2025-06-23 15:52:22,166 - strategy - INFO - Successfully fetched 3999 candles
+2025-06-23 15:52:22,500 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:52:32,019 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:52:32,126 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:52:32,197 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:52:32,464 - trading_bot - INFO - Bid liquidity: 66114.0, Ask liquidity: 113981.0
+2025-06-23 15:53:34,629 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:53:34,660 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:53:34,683 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:53:34,935 - trading_bot - INFO - Bid liquidity: 65572.0, Ask liquidity: 114438.0
+2025-06-23 15:54:05,490 - strategy - INFO - Fetching ETHUSD data for 1m timeframe
+2025-06-23 15:54:06,740 - strategy - INFO - Successfully fetched 3999 candles
+2025-06-23 15:54:07,067 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:54:36,938 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:54:36,967 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:54:36,990 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:54:37,390 - trading_bot - INFO - Bid liquidity: 62654.0, Ask liquidity: 114663.0
+2025-06-23 15:55:38,359 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:55:38,383 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:55:38,405 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:55:38,649 - trading_bot - INFO - Bid liquidity: 64352.0, Ask liquidity: 114165.0
+2025-06-23 15:56:40,383 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:56:40,411 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:56:40,430 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:56:41,165 - trading_bot - INFO - Bid liquidity: 67140.0, Ask liquidity: 103371.0
+2025-06-23 15:57:42,602 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:57:42,629 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:57:42,649 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:57:42,888 - trading_bot - INFO - Bid liquidity: 66612.0, Ask liquidity: 102228.0
+2025-06-23 15:58:44,378 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 15:58:44,396 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:58:44,415 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 15:58:44,664 - trading_bot - INFO - Bid liquidity: 66143.0, Ask liquidity: 100165.0
+2025-06-23 15:59:47,612 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 15:59:47,616 - trading_bot - INFO - No new candles to process.
+2025-06-23 16:00:48,827 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 16:00:48,848 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:00:48,872 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:00:49,113 - trading_bot - INFO - Bid liquidity: 67263.0, Ask liquidity: 99129.0
+2025-06-23 16:00:49,138 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:00:49,451 - trading_bot - INFO - Bid liquidity: 67263.0, Ask liquidity: 99129.0
+2025-06-23 16:01:51,833 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 16:01:51,856 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:01:51,875 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:01:52,249 - trading_bot - INFO - Bid liquidity: 67069.0, Ask liquidity: 99294.0
+2025-06-23 16:02:53,715 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 16:02:53,747 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:02:53,767 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:02:54,019 - trading_bot - INFO - Bid liquidity: 64615.0, Ask liquidity: 114875.0
+2025-06-23 16:03:55,148 - trading_bot - INFO - Fetched 197 candles for strategy.
+2025-06-23 16:03:55,173 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:03:55,194 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:03:55,473 - trading_bot - INFO - Bid liquidity: 61391.0, Ask liquidity: 114010.0
+2025-06-23 16:04:33,556 - strategy - INFO - Fetching ETHUSD data for 1m timeframe
+2025-06-23 16:04:34,060 - strategy - INFO - Successfully fetched 3999 candles
+2025-06-23 16:04:34,383 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:04:57,176 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 16:04:57,195 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:04:57,216 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:04:57,467 - trading_bot - INFO - Bid liquidity: 57307.0, Ask liquidity: 113465.0
+2025-06-23 16:06:00,093 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 16:06:00,095 - trading_bot - INFO - No new candles to process.
+2025-06-23 16:07:01,908 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 16:07:01,928 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:07:01,947 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:07:02,231 - trading_bot - INFO - Bid liquidity: 59089.0, Ask liquidity: 112880.0
+2025-06-23 16:07:02,259 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:07:02,591 - trading_bot - INFO - Bid liquidity: 59090.0, Ask liquidity: 112880.0
+2025-06-23 16:07:02,620 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:07:02,914 - trading_bot - INFO - Bid liquidity: 59089.0, Ask liquidity: 112880.0
+2025-06-23 16:08:04,580 - trading_bot - INFO - Fetched 197 candles for strategy.
+2025-06-23 16:08:04,599 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:08:04,619 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:08:04,863 - trading_bot - INFO - Bid liquidity: 62980.0, Ask liquidity: 113897.0
+2025-06-23 16:09:06,077 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 16:09:06,105 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:09:06,125 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:09:06,383 - trading_bot - INFO - Bid liquidity: 60287.0, Ask liquidity: 114180.0
+2025-06-23 16:10:08,761 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 16:10:08,763 - trading_bot - INFO - No new candles to process.
+2025-06-23 16:11:10,938 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 16:11:10,963 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:11:10,984 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:11:11,248 - trading_bot - INFO - Bid liquidity: 57936.0, Ask liquidity: 113226.0
+2025-06-23 16:11:11,266 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:11:11,503 - trading_bot - INFO - Bid liquidity: 57936.0, Ask liquidity: 113226.0
+2025-06-23 16:12:13,580 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 16:12:13,606 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:12:13,626 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:12:14,189 - trading_bot - INFO - Bid liquidity: 55535.0, Ask liquidity: 114638.0
+2025-06-23 16:13:16,185 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 16:13:16,215 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:13:16,236 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:13:16,712 - trading_bot - INFO - Bid liquidity: 55591.0, Ask liquidity: 114821.0
+2025-06-23 16:14:17,808 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 16:14:17,834 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:14:17,854 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:14:18,117 - trading_bot - INFO - Bid liquidity: 53136.0, Ask liquidity: 118400.0
+2025-06-23 16:14:25,121 - trading_bot - INFO - Stopping trading bot...
+2025-06-23 16:15:22,547 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 16:15:22,548 - trading_bot - INFO - Starting trading bot...
+2025-06-23 16:15:25,049 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 16:15:25,075 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:16:27,062 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 16:16:27,065 - trading_bot - INFO - No new candles to process.
+2025-06-23 16:17:29,829 - trading_bot - INFO - Fetched 195 candles for strategy.
+2025-06-23 16:17:29,855 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:18:32,380 - trading_bot - INFO - Fetched 196 candles for strategy.
+2025-06-23 16:18:32,408 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:19:35,495 - trading_bot - INFO - Fetched 197 candles for strategy.
+2025-06-23 16:19:35,520 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:20:38,236 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 16:20:38,264 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:21:39,475 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 16:21:39,497 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:22:40,510 - strategy - INFO - Fetching ETHUSD data for 1m timeframe
+2025-06-23 16:22:40,757 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 16:22:40,779 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:22:41,398 - strategy - INFO - Successfully fetched 3999 candles
+2025-06-23 16:22:41,719 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:23:43,840 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 16:23:43,867 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:24:46,227 - trading_bot - INFO - Fetched 196 candles for strategy.
+2025-06-23 16:24:46,254 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:25:48,440 - trading_bot - INFO - Fetched 196 candles for strategy.
+2025-06-23 16:25:48,443 - trading_bot - INFO - No new candles to process.
+2025-06-23 16:26:50,758 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 16:26:50,790 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:27:52,972 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 16:27:53,015 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:28:37,132 - trading_bot - INFO - Stopping trading bot...
+2025-06-23 16:29:00,504 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 16:29:00,504 - trading_bot - INFO - Starting trading bot...
+2025-06-23 16:29:02,814 - trading_bot - INFO - Fetched 196 candles for strategy.
+2025-06-23 16:29:02,843 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:30:05,681 - trading_bot - INFO - Fetched 197 candles for strategy.
+2025-06-23 16:30:05,715 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:31:07,200 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 16:31:07,228 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:57:24,255 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 16:57:24,279 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:57:24,834 - trading_bot - ERROR - Error in main loop: 400 HTTP Error: Bad Request {"error":{"code":"negative_order_size"},"success":false} for url: https://cdn-ind.testnet.deltaex.org/v2/orders
+2025-06-23 16:58:44,569 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 16:58:44,569 - trading_bot - INFO - Starting trading bot...
+2025-06-23 16:58:46,586 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 16:58:46,613 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 16:59:49,370 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 16:59:49,373 - trading_bot - INFO - No new candles to process.
+2025-06-23 17:00:52,298 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:00:52,322 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:01:54,401 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:01:54,425 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:02:57,121 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 17:02:57,141 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:02:58,208 - strategy - INFO - Fetching ETHUSD data for 1m timeframe
+2025-06-23 17:02:58,723 - strategy - INFO - Successfully fetched 3999 candles
+2025-06-23 17:02:59,047 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:03:40,465 - strategy - INFO - Fetching ETHUSD data for 15m timeframe
+2025-06-23 17:03:41,578 - strategy - INFO - Successfully fetched 4000 candles
+2025-06-23 17:03:41,901 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:03:59,384 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 17:03:59,386 - trading_bot - INFO - No new candles to process.
+2025-06-23 17:04:28,636 - strategy - INFO - Fetching ETHUSD data for 1d timeframe
+2025-06-23 17:04:28,951 - strategy - INFO - Successfully fetched 60 candles
+2025-06-23 17:04:28,964 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:04:57,787 - strategy - INFO - Fetching ETHUSD data for 1h timeframe
+2025-06-23 17:04:58,204 - strategy - INFO - Successfully fetched 1440 candles
+2025-06-23 17:04:58,329 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:05:02,846 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 17:05:02,867 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:05:28,340 - strategy - INFO - Fetching ETHUSD data for 5m timeframe
+2025-06-23 17:05:29,057 - strategy - INFO - Successfully fetched 3999 candles
+2025-06-23 17:05:29,377 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:06:07,360 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:06:07,387 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:06:16,849 - strategy - INFO - Fetching ETHUSD data for 1m timeframe
+2025-06-23 17:06:17,472 - strategy - INFO - Successfully fetched 3999 candles
+2025-06-23 17:06:17,814 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:07:09,949 - trading_bot - INFO - Fetched 196 candles for strategy.
+2025-06-23 17:07:09,973 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:08:12,098 - trading_bot - INFO - Fetched 197 candles for strategy.
+2025-06-23 17:08:12,126 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:11:11,717 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 17:11:11,718 - trading_bot - INFO - Starting trading bot...
+2025-06-23 17:11:13,003 - trading_bot - INFO - Fetched 196 candles for strategy.
+2025-06-23 17:11:13,029 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:11:34,580 - trading_bot - INFO - Stopping trading bot...
+2025-06-23 17:12:04,105 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 17:12:04,105 - trading_bot - INFO - Starting trading bot...
+2025-06-23 17:12:06,444 - trading_bot - INFO - Fetched 197 candles for strategy.
+2025-06-23 17:12:06,475 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:13:10,256 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 17:13:10,281 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:14:13,250 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:14:13,275 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:15:15,139 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:15:15,166 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:16:18,105 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:16:18,132 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:17:19,421 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:17:19,448 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:18:23,422 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:18:23,448 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:20:09,620 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 17:20:46,815 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 17:21:30,185 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 17:21:31,179 - telegram_bot - INFO - Telegram message sent: 🚀 Trading Bot Started!
+Product ID: 1699
+Initial Capital: $100
+Leverage: 1x
+Order Block Strategy Params:
+- Candle TF: 1m
+- Price Move Threshold: 0.50%
+- Min Volume Percentile: 30
+- SMA Trend: 20/50
+- Min Candles Between Trades: 5
+- Stop Loss: 2.00%
+- Trailing Stop: 1.50%
+
+2025-06-23 17:21:31,182 - trading_bot - INFO - Starting trading bot...
+2025-06-23 17:21:34,294 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 17:21:34,323 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:22:37,855 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:22:37,881 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:23:41,272 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:23:41,298 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:24:45,388 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:24:45,414 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:25:47,399 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:25:47,425 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:26:50,324 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:26:50,350 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:27:53,593 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:27:53,624 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:28:56,216 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:28:56,241 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:29:58,607 - trading_bot - INFO - Fetched 196 candles for strategy.
+2025-06-23 17:29:58,640 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:30:59,881 - trading_bot - INFO - Fetched 197 candles for strategy.
+2025-06-23 17:30:59,907 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:32:01,350 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:32:01,377 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:33:03,906 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:33:03,933 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:34:05,953 - trading_bot - INFO - Fetched 197 candles for strategy.
+2025-06-23 17:34:05,957 - trading_bot - INFO - No new candles to process.
+2025-06-23 17:35:07,865 - trading_bot - INFO - Fetched 197 candles for strategy.
+2025-06-23 17:35:07,867 - trading_bot - INFO - No new candles to process.
+2025-06-23 17:36:09,818 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:36:09,846 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:37:12,415 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 17:37:12,419 - trading_bot - INFO - No new candles to process.
+2025-06-23 17:38:14,942 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:38:14,973 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:39:16,905 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:39:16,931 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:40:18,497 - trading_bot - INFO - Fetched 196 candles for strategy.
+2025-06-23 17:40:18,520 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:41:20,556 - trading_bot - INFO - Fetched 197 candles for strategy.
+2025-06-23 17:41:20,582 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:42:23,088 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 17:42:23,117 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:43:24,859 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:43:24,882 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:43:44,505 - strategy - INFO - Fetching ETHUSD data for 1m timeframe
+2025-06-23 17:43:45,132 - strategy - INFO - Successfully fetched 3999 candles
+2025-06-23 17:43:45,458 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:44:27,115 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:44:27,144 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:45:29,234 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:45:29,254 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:46:31,923 - trading_bot - INFO - Fetched 197 candles for strategy.
+2025-06-23 17:46:31,955 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:47:33,775 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 17:47:33,805 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:48:35,490 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 17:48:35,505 - trading_bot - INFO - No new candles to process.
+2025-06-23 17:49:38,408 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:49:38,434 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:50:40,318 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:50:40,344 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:51:42,170 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:51:42,192 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:52:43,616 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:52:43,650 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 17:53:46,094 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 17:53:46,121 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:00:19,373 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 18:00:20,362 - telegram_bot - INFO - Telegram message sent: 🚀 Trading Bot Started!
+Product ID: 1699
+Initial Capital: $100
+Leverage: 1x
+Order Block Strategy Params:
+- Candle TF: 1m
+- Price Move Threshold: 0.50%
+- Min Volume Percentile: 30
+- SMA Trend: 20/50
+- Min Candles Between Trades: 5
+- Stop Loss: 2.00%
+- Trailing Stop: 1.50%
+
+2025-06-23 18:00:20,365 - trading_bot - INFO - Starting trading bot...
+2025-06-23 18:00:23,134 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:00:23,161 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:01:24,925 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:01:24,954 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:02:26,836 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:02:26,855 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:03:30,168 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:03:30,195 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:04:32,278 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:04:32,306 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:05:34,414 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:05:34,435 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:06:36,504 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:06:36,530 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:07:38,607 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:07:38,626 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:08:40,626 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:08:40,666 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:09:42,630 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:09:42,649 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:10:45,603 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:10:45,629 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:11:47,941 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:11:47,964 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:12:50,160 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:12:50,180 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:13:52,140 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:13:52,166 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:14:53,735 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:14:53,761 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:15:55,340 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:15:55,368 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:16:57,592 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:16:57,616 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:17:59,327 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:17:59,358 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:19:01,142 - trading_bot - INFO - Fetched 200 candles for strategy.
+2025-06-23 18:19:01,171 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:19:58,302 - strategy - INFO - Fetching ETHUSD data for 1m timeframe
+2025-06-23 18:20:01,775 - strategy - INFO - Successfully fetched 3999 candles
+2025-06-23 18:20:02,105 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:20:04,700 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:20:04,721 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:21:07,464 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:21:07,490 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:23:38,746 - trading_bot - INFO - Successfully initialized trading for product ID: 1699
+2025-06-23 18:23:39,698 - telegram_bot - INFO - Telegram message sent: 🚀 Trading Bot Started!
+Product ID: 1699
+Initial Capital: $100
+Leverage: 1x
+Order Block Strategy Params:
+- Candle TF: 1m
+- Price Move Threshold: 0.50%
+- Min Volume Percentile: 30
+- SMA Trend: 20/50
+- Min Candles Between Trades: 5
+- Stop Loss: 2.00%
+- Trailing Stop: 1.50%
+
+2025-06-23 18:23:39,700 - trading_bot - INFO - Starting trading bot...
+2025-06-23 18:23:41,579 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:23:41,607 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:24:45,744 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:24:45,770 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:25:47,643 - trading_bot - INFO - Fetched 199 candles for strategy.
+2025-06-23 18:25:47,664 - strategy - INFO - Successfully calculated technical indicators
+2025-06-23 18:26:51,141 - trading_bot - INFO - Fetched 198 candles for strategy.
+2025-06-23 18:26:51,165 - strategy - INFO - Successfully calculated technical indicators

@@ -1,0 +1,11 @@
+2025-06-23 15:05:31,025 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:05:31,025 - trading_bot - ERROR - Error fetching market data: 'DeltaRestClient' object has no attribute 'get_history_candles'
+2025-06-23 15:06:31,045 - trading_bot - ERROR - Error fetching market data: 'DeltaRestClient' object has no attribute 'get_history_candles'
+2025-06-23 15:08:24,788 - trading_bot - INFO - Starting trading bot...
+2025-06-23 15:08:25,372 - trading_bot - ERROR - Error fetching market data: 401 HTTP Error: Unauthorized {"error":{"code":"invalid_api_key"},"success":false} for url: https://api.india.delta.exchange/v2/products/ETHUSD
+2025-06-23 15:08:53,811 - strategy - INFO - Fetching ETHUSD data for 15m timeframe
+2025-06-23 15:08:54,262 - strategy - INFO - Successfully fetched 4000 candles
+2025-06-23 15:08:54,594 - strategy - ERROR - Error calculating indicators: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-23 15:11:25,756 - strategy - INFO - Fetching ETHUSD_PERP data for 15m timeframe
+2025-06-23 15:11:26,066 - strategy - ERROR - Error fetching market data: 'timestamp'
+2025-06-23 15:11:26,069 - strategy - ERROR - Error calculating indicators: 'open'
