@@ -7,8 +7,8 @@ import os
 # API Configuration
 API_CONFIG = {
     'base_url': 'https://cdn-ind.testnet.deltaex.org',  # India Testnet REST API URL
-    'api_key': 'x8gvyWA4xp2bvNFU8jRjQICgb2Xn3D',  # Testnet API Key
-    'api_secret': 'oUl3B4nAHRL00VKWyAcpKeOHBSyxSL1z2Jem9esrHFbZQ6mjbTvpb5HVG6d1'  # Testnet API Secret
+    'api_key': 'rWtCLUe2xtKNQ0FjzDlvzg2VkLygub',  # Testnet API Key
+    'api_secret': 'rEogkSz5gniJ5DF54LH1gc1YHQgIvFfvTDeRL5hWhH8gyIey92kXRuYc25Kf'  # Testnet API Secret
 }
 
 # Trading Configuration
